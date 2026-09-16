@@ -4,6 +4,7 @@
 
 5+ years of experience building production-grade backend and full-stack applications.
 
+
 ## 👨‍💻 About Me
 
 - 5+ years of professional software engineering experience
@@ -17,6 +18,7 @@
 - Building and integrating **LLM-powered applications and AI agents**
 - Experience with **Android TV, AOSP, Samsung Tizen/TEP and LG webOS**
 - Passionate about **performance optimization, debugging and solving production problems**
+
 
 ## Tech Stack
 
@@ -35,6 +37,7 @@ AWS | Docker | CI/CD | Linux | Nginx
 ### AI
 OpenAI API | Anthropic Claude | LLM Integration | AI Agents
 
+
 ## 💼 What I Work On
 
 - Scalable backend services
@@ -46,12 +49,14 @@ OpenAI API | Anthropic Claude | LLM Integration | AI Agents
 - AI/LLM integrations
 - Production troubleshooting and optimization
 
+
 ## 📌 Featured Projects
 
 - AI-Powered Full Stack Platform
 - Node.js Microservices Platform
 - AI Agent Workflow
 - Full Stack React + Node.js Application
+
 
 ## 📫 Connect With Me
 
