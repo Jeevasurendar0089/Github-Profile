@@ -18,6 +18,20 @@
 - Experience with **Android TV, AOSP, Samsung Tizen/TEP and LG webOS**
 - Passionate about **performance optimization, debugging and solving production problems**
 
+## 🧠 Engineering Journey
+
+Frontend Development
+        ↓
+Backend Engineering
+        ↓
+Full Stack Development
+        ↓
+Production Systems & Cloud
+        ↓
+Technical Architecture
+        ↓
+AI / LLM & Agent Workflows
+
 ## Tech Stack
 
 ### Backend
