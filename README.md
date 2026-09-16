@@ -12,7 +12,7 @@ Senior Node.js / Full Stack Engineer
 
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-Full%20Stack-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-Full%20Stack-3178C6?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/AI%20%2F%20LLM-Engineering-412991?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
