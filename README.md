@@ -4,6 +4,20 @@
 
 5+ years of experience building production-grade backend and full-stack applications.
 
+## 👨‍💻 About Me
+
+- 5+ years of professional software engineering experience
+- Specialized in **Node.js backend & full-stack development**
+- Experience designing **service-oriented and scalable backend systems**
+- Building **REST APIs, GraphQL APIs and WebSocket-based real-time systems**
+- Hands-on experience with **AWS cloud and production deployments**
+- Working with **PostgreSQL, MySQL, Redis and Sequelize**
+- Experience with **Docker, Linux, Nginx and CI/CD**
+- Strong domain experience in **IPTV, OTT, Hospitality, ISP, DRM, CDN and Streaming**
+- Building and integrating **LLM-powered applications and AI agents**
+- Experience with **Android TV, AOSP, Samsung Tizen/TEP and LG webOS**
+- Passionate about **performance optimization, debugging and solving production problems**
+
 ## Tech Stack
 
 ### Backend
