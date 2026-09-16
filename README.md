@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 
-<h1 align="center">Hi, I'm Jeevasurendar 👋</h1>
+<h1 align="center">Hi, I'm Jeevasurendar Muthukrishnan 👋</h1>
 
 <h3 align="center">
 Senior Node.js / Full Stack Engineer
