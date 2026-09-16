@@ -20,7 +20,17 @@
 
 ## 🧠 Engineering Journey
 
-Frontend Development -> Backend Engineering -> Full Stack Development -> Production Systems & Cloud -> Technical Architecture -> AI / LLM & Agent Workflows
+**Frontend Development**  
+↓  
+**Backend Engineering**  
+↓  
+**Full Stack Development**  
+↓  
+**Production Systems & Cloud**  
+↓  
+**Technical Architecture**  
+↓  
+**AI / LLM & Agent Workflows**
 
 ## Tech Stack
 
